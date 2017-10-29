@@ -1,6 +1,8 @@
 # ui-test-devnagri-clj
 
-FIXME: description
+UI tests for devnagri using Clojure and etaoin library.
+
+http://grishaev.me/etaoin/etaoin.api-api.html
 
 ## Installation
 
